@@ -1,0 +1,39 @@
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	font-size: 36px;
+	margin-bottom: 30px;
+}
+
+#quiz {
+	text-align: left;
+	margin-bottom: 30px;
+}
+
+.question {
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+.answer {
+	margin-bottom: 10px;
+}
+
+#submit {
+	font-size: 20px;
+	padding: 10px 20px;
+	margin-top: 30px;
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#submit:hover {
+	background-color: #0069d9;
+}
